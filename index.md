@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Entre em contato
 
-Problemas com esta página ou com o aplicativo? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) em breve retornaremos. 
+Problemas com esta página ou com o aplicativo? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact), ou ainda, mande um email para demerivas@gmail.com em breve retornaremos. 
