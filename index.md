@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/demerivas/games/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Nossos jogos são voltados para educação na terceira idade.
+Nossos jogos são voltados para educação na terceira idade. Se você têm um avô ou uma avó que não consegue usar um celular, Android ou IPhone, não se preocupe, aqui ele vai aprender!
 
 ### Markdown
 
